@@ -7,6 +7,11 @@ These are the following components:
 - User accounts
 - Add new expenses
 
+<p align="center">
+  <img src="src/assets/images/expenseApp.jpg" alt="Epenses App" width="833" height="481"/>
+</p>
+
+
 # Using the modern libraries, the application must used the following:
 
 - Build, test, and launch React apps
