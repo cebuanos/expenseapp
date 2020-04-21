@@ -7,7 +7,7 @@ These are the following components:
 - User accounts
 - Add new expenses
 
-# The Scope of the assignment are the following:
+# Using the modern libraries, the application must used the following:
 
 - Build, test, and launch React apps
 - Use cutting-edge ES6/ES7 JavaScript
