@@ -1,7 +1,16 @@
-# Git Commands
+# Expenses App
+The main objectives is develop a expeses manager app.
 
-git init - Create a new git repo
-git status - View the changes to your project code
-git add - Add files to staging area
-git commit - Creates a new commit with files from staging area
-git log - View recent commits
+These are the following components:
+
+- Setup authentication
+- User accounts
+- Add new expenses
+
+# Using the modern libraries, the application must used the following:
+
+- Build, test, and launch React apps
+- Use cutting-edge ES6/ES7 JavaScript
+- Setup authentication and user accounts
+- Using React libraries and tools
+- React, Redux, React-Router
